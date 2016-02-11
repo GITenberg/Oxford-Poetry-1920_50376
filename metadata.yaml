@@ -1,0 +1,30 @@
+_repo: Oxford-Poetry-1920_50376
+contributor:
+  creator:
+    editors:
+    - agent_name: Brittain, Vera
+      birthdate: 1893
+      deathdate: 1970
+      gutenberg_agent_id: '45847'
+      url: http://www.gutenberg.org/2009/agents/45847
+      wikipedia: https://en.wikipedia.org/wiki/Vera_Brittain
+    - agent_name: Porter, Alan
+      gutenberg_agent_id: '45860'
+      url: http://www.gutenberg.org/2009/agents/45860
+    - agent_name: Kitchin, C. H. B. (Clifford Henry Benn)
+      birthdate: 1895
+      deathdate: 1967
+      gutenberg_agent_id: '45858'
+      url: http://www.gutenberg.org/2009/agents/45858
+      wikipedia: https://en.wikipedia.org/wiki/C._H._B._Kitchin
+description: ''
+gutenberg_issued: '2015-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Oxford Poetry, 1920
+url: http://www.gutenberg.org/ebooks/50376
